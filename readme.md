@@ -1,3 +1,3 @@
-##[Icons](https://LeahSmyth.github.io/icons/index.html)
+[Icons](https://LeahSmyth.github.io/icons/index.html)
 
-#[Part One](https://LeahSmyth.github.io/icons/wands.html)
+[Part One](https://LeahSmyth.github.io/icons/wands.html)
