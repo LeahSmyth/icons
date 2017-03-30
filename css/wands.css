@@ -1,0 +1,125 @@
+.round-wand{position: absolute;}
+
+#wands-circle{
+    padding-top:3%;
+}
+
+#wand-hp{
+    width:2.5%;
+    left:47%;
+    top:6%;
+    }
+
+#wand-hg{
+    width:8%;
+    left:48.75%;
+    top:9%;
+    }
+
+#wand-vk{
+    width:15%;
+    left:50%;
+    top:10.5%;
+    }
+
+#wand-fd{
+    width:20%;
+    left:51.5%;
+    top:20.5%;
+    }
+
+#wand-du{
+    width:23%;
+    left:52%;
+    top:35.75%;
+    }
+
+#wand-v{
+    width:24%;
+    left:52.5%;
+    top:50%;
+    }
+
+#wand-bl{
+    width:23%;
+    left:52%;
+    top:54%;
+    }
+
+#wand-dm{
+    width:20%;
+    left:51.5%;
+    top:56%;
+    }
+
+#wand-ss{
+    width:15%;
+    left:50%;
+    top:58%;
+    }
+
+#wand-mm{
+    width:8%;
+    left:49%;
+    top:59.5%;
+    }
+
+#wand-ad{
+    width:2.5%;
+    top:60%;
+    left:46.5%;
+    }
+
+#wand-nt{
+    width:7.5%;
+    left:39.5%;
+    top:59.5%;
+    }
+
+#wand-rl{
+    width:14.5%;
+    left:31%;
+    top:58.5%;
+    }
+
+#wand-sb{
+    width:19.5%;
+    left:25%;
+    top:56.5%;
+    }
+
+#wand-ll{
+    width:24%;
+    left:20%;
+    top:54.5%;
+    }
+
+#wand-nl{
+    width:25%;
+    left:19%;
+    top:50%;
+    }
+
+#wand-fw{
+    width:24%;
+    left:20%;
+    top:35%;
+    }
+
+#wand-gw{
+    width:20%;
+    left:24.5%;
+    top:22%;
+    }
+
+#wand-gp{
+    width:15%;
+    left:31%;
+    top:12.5%;
+    }
+
+#wand-rw{
+    width:8%;
+    left:39%;
+    top:7%;
+    }
