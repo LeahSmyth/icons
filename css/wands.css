@@ -1,3 +1,29 @@
+body{ 
+    max-width:100%;
+    min-height:100%;
+    margin:auto;
+    background:#808285;
+    }
+
+nav{position:fixed;
+    color:#DCB041;
+	top:0;
+	left:0;
+	margin:0;
+	width:100%;
+	/*background:#414042;*/
+	z-index:2;
+    font-family:'Rochester',cursive;
+    padding-bottom:.5em;
+    padding-top:1em;}
+
+nav a{
+    text-decoration:none;
+    color:#3A246C;
+    padding-left:1em;
+    font-size:1.8em;
+    }
+
 .round-wand{position: absolute;}
 
 #wands-circle{
