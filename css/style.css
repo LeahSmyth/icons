@@ -16,8 +16,9 @@
 }
 
 .opening-door.frame {
-    width:148.7px; 
-    height: 275px;
+    position:absolute;
+    width:11.8%; 
+    height:37.9%;
     padding: 13px 13px 0px 13px;
     perspective: 275px;
     perspective-origin: 0;
@@ -55,12 +56,9 @@
 }
 
 .opening-door{
-    width: 16px;
-    height: 6px;
-    border-radius: 4px;
     position: absolute;
-    top:62.5%;
-    right:44.6%;
+    top:62.2%;
+    right:44.41%;
 }
 
 .opening-door .handle:after {
