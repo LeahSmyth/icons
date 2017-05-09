@@ -19,8 +19,8 @@
     position:absolute;
     width:11.8%; 
     height:37.9%;
-    padding: 13px 13px 0px 13px;
-    perspective: 275px;
+    padding:1.08% 1.08% 0px 1.08%;
+    perspective:275px;
     perspective-origin: 0;
     cursor: pointer;
 }
@@ -63,18 +63,9 @@
 
 .opening-door .handle:after {
     content: ' ';
-    width: 16px;
-    height: 16px;
     border-radius: 100%;
     position: absolute;
-    top: -6px;
-    right: -4px;
     transition: all 0.4s ease-in-out;
-}
-
-.opening-door:hover .handle:after {
-    width: 24px;
-    right: -15px;
 }
 
 .shop{width:100%;}
@@ -119,6 +110,14 @@ h3{
     font-size:1em;
 }
 
+p{
+    font-family: 'Raleway', sans-serif;
+    text-align:center;
+    font-size:1.2em;
+    padding-left:20%;
+    padding-right:20%;
+    margin-bottom:2%;}
+
 .text{margin-top:-1em;}
 
 .text1{margin-top:-.5em;}
@@ -151,6 +150,11 @@ top:0em;}
     padding-top:4em;
     padding-bottom:4em;
     }
+
+.even1{
+    padding-bottom:1.5em;
+    padding-top:5em;
+}
 
 .download{
     position: relative;
