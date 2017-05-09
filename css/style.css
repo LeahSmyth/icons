@@ -12,7 +12,7 @@
     perspective:275px;
     perspective-origin: 0;
     cursor: pointer;
-    bottom:0.1%;
+    margin-top:36.4%;
     right:45.43%;
 }
 
@@ -27,7 +27,9 @@
 
 .opening-door:hover .door {transform: rotateY(35deg);}
 
-.shop{width:100%;}
+.shop{
+    width:100%;
+    position:absolute;}
 
 body{ 
     max-width:100%;
