@@ -14,6 +14,8 @@
     cursor: pointer;
     margin-top:36.4%;
     right:45.43%;
+    margin-bottom:0%;
+    
 }
 
 .opening-door .door {
@@ -23,9 +25,60 @@
     transform-origin:center left;
     position:absolute;
     z-index:2;
+    
 }
 
 .opening-door:hover .door {transform: rotateY(35deg);}
+
+.opening-door1.frame1 {
+    position:absolute;
+    width:11%; 
+    height:37%;
+    perspective:300px;
+    perspective-origin: 0;
+    cursor: pointer;
+    margin-top:35.4%;
+    right:76.8%;
+    margin-bottom:0%;
+    
+}
+
+.opening-door1 .door1 {
+    width:100%;
+    height:100%; 
+    transition:all 0.4s ease-in-out;
+    transform-origin:center left;
+    position:absolute;
+    z-index:2;
+    
+}
+
+.opening-door1:hover .door1 {transform: rotateY(35deg);}
+
+.opening-door2.frame2 {
+    position:absolute;
+    width:11%; 
+    height:33.3%;
+    perspective:275px;
+    perspective-origin: 0;
+    cursor: pointer;
+    margin-top:37.9%;
+    right:8.5%;
+    margin-bottom:0%;
+    
+}
+
+.opening-door2 .door2 {
+    width:100%;
+    height:100%; 
+    transition:all 0.4s ease-in-out;
+    transform-origin:center left;
+    position:absolute;
+    z-index:2;
+    
+}
+
+.opening-door2:hover .door2 {transform: rotateY(35deg);}
 
 .shop{
     width:100%;
