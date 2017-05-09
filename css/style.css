@@ -5,54 +5,27 @@
 	line-height:1em;
 	}
 
-.opening-door, .opening-door :before, .opening-door :after {
-    box-sizing: border-box;
-}
-
-.opening-door:after {
-    content: ' ';
-    position: absolute;
-    bottom: 0;
-}
-
 .opening-door.frame {
     position:absolute;
-    width:11.8%; 
-    height:37.9%;
-    padding:1.08% 1.08% 0px 1.08%;
+    width:9.7%; 
+    height:36%;
     perspective:275px;
     perspective-origin: 0;
     cursor: pointer;
-    top:62.2%;
-    right:44.41%;
+    bottom:0.1%;
+    right:45.43%;
 }
 
 .opening-door .door {
-    width: 100%;
-    height: 100%;
-    background:; 
-    transition: all 0.4s ease-in-out;
-    transform-origin: center left;
-    position: relative;
-    z-index: 2;
+    width:100%;
+    height:100%; 
+    transition:all 0.4s ease-in-out;
+    transform-origin:center left;
+    position:absolute;
+    z-index:2;
 }
 
-.opening-door:hover .door {
-    transform: rotateY(35deg);
-    transform-origin: center left;
-}
-
-.opening-door .door:after {
-    content: ' ';
-    opacity: 0;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    transition: all 0.4s ease-in-out;
-}
-
+.opening-door:hover .door {transform: rotateY(35deg);}
 
 .shop{width:100%;}
 
